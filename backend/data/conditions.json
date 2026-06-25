@@ -1,0 +1,155 @@
+{
+  "pcos": {
+    "name": "PCOS (Polycystic Ovary Syndrome)",
+    "symptoms": [
+      "irregular periods",
+      "missed periods",
+      "excess facial hair",
+      "excess body hair",
+      "acne",
+      "weight gain",
+      "hair thinning on scalp",
+      "dark skin patches",
+      "difficulty losing weight",
+      "mood swings"
+    ],
+    "explanation": "PCOS ek hormonal imbalance hai jisme ovaries mein chhote cysts ban jaate hain. Yeh periods irregular kar deta hai aur male hormones (androgens) zyada ho jaate hain — isi wajah se hair growth, acne, aur weight gain hoti hai.",
+    "urgency": "See a doctor soon",
+    "urgency_desc": "Especially if trying to conceive or periods missing 3+ months",
+    "lifestyle_tips": [
+      "Low-glycemic diet",
+      "Regular exercise",
+      "Weight management",
+      "Stress reduction"
+    ]
+  },
+  "menstrual_irregularities": {
+    "name": "Menstrual Irregularities",
+    "symptoms": [
+      "periods missed for 2+ months",
+      "cycle shorter than 21 days",
+      "cycle longer than 35 days",
+      "extremely heavy bleeding",
+      "bleeding between periods",
+      "periods lasting 7+ days"
+    ],
+    "explanation": "Irregular periods kayi wajuhaat se ho sakte hain — hormonal imbalance, stress, thyroid issues, PCOS, ya weight changes. Ek cycle ka pattern track karna important hai diagnosis ke liye.",
+    "urgency": "Monitor at home",
+    "urgency_desc": "Monitor at home if occasional, See a doctor soon if persistent (3+ cycles). Seek urgent care if soaking through pad/tampon every hour for 2+ hours.",
+    "lifestyle_tips": [
+      "Track cycle with an app",
+      "Note stress/diet changes",
+      "Maintain healthy weight"
+    ]
+  },
+  "anemia": {
+    "name": "Anemia (Iron Deficiency)",
+    "symptoms": [
+      "constant fatigue",
+      "weakness",
+      "pale skin",
+      "pale inner eyelids",
+      "shortness of breath",
+      "dizziness",
+      "cold hands",
+      "cold feet",
+      "brittle nails",
+      "unusual cravings",
+      "hair fall"
+    ],
+    "explanation": "Anemia us waqt hota hai jab khoon mein red blood cells ya hemoglobin kam ho jaate hain, jiski wajah se body tak oxygen theek se nahi pohanchta. Women mein yeh heavy periods ya iron-poor diet ki wajah se common hai.",
+    "urgency": "See a doctor soon",
+    "urgency_desc": "Monitor at home for mild fatigue, See a doctor soon for persistent symptoms, Seek urgent care for severe dizziness, fainting, or chest pain.",
+    "lifestyle_tips": [
+      "Iron-rich foods (spinach, red meat, lentils)",
+      "Vitamin C with iron for better absorption",
+      "Avoid tea/coffee with meals"
+    ]
+  },
+  "thyroid": {
+    "name": "Thyroid Disorders (Hypo/Hyperthyroidism)",
+    "symptoms": [
+      "fatigue",
+      "weight gain",
+      "weight loss",
+      "cold intolerance",
+      "dry skin",
+      "hair thinning",
+      "depression",
+      "constipation",
+      "rapid heartbeat",
+      "anxiety",
+      "excessive sweating",
+      "tremors",
+      "difficulty sleeping"
+    ],
+    "explanation": "Thyroid gland body ka metabolism control karti hai. Hypothyroidism mein yeh kam active hoti hai (sab kuch slow ho jaata hai), aur hyperthyroidism mein zyada active (sab kuch fast ho jaata hai). Dono symptoms se identify hote hain aur blood test se confirm hote hain.",
+    "urgency": "See a doctor soon",
+    "urgency_desc": "See a doctor soon for most cases. Seek urgent care for rapid heartbeat with chest pain, or severe weakness.",
+    "lifestyle_tips": [
+      "Regular TSH testing",
+      "Iodine-balanced diet",
+      "Medication adherence if diagnosed"
+    ]
+  },
+  "endometriosis": {
+    "name": "Endometriosis",
+    "symptoms": [
+      "severe pelvic pain",
+      "pain during periods",
+      "pain during intercourse",
+      "heavy menstrual bleeding",
+      "pain during bowel movements",
+      "pain during urination",
+      "infertility difficulty",
+      "lower back pain",
+      "fatigue"
+    ],
+    "explanation": "Endometriosis mein uterus ki lining jaisa tissue uterus ke bahar (ovaries, fallopian tubes) grow karta hai. Yeh severe pain ka cause banta hai, especially periods ke doran, aur agar treat na kiya jaaye toh fertility ko affect kar sakta hai.",
+    "urgency": "See a doctor soon",
+    "urgency_desc": "See a doctor soon for consistent pain pattern. Seek urgent care for sudden severe abdominal pain or fainting.",
+    "lifestyle_tips": [
+      "Pain tracking journal",
+      "Heat therapy",
+      "Anti-inflammatory diet"
+    ]
+  },
+  "menopause": {
+    "name": "Menopause / Perimenopause",
+    "symptoms": [
+      "hot flashes",
+      "irregular periods (age 40+)",
+      "night sweats",
+      "mood changes",
+      "vaginal dryness",
+      "sleep issues"
+    ],
+    "explanation": "Menopause ek natural phase hai jab ovaries periods produce karna band kar dete hain, usually age 45-55 ke darmiyan. Perimenopause uske pehle ki transition phase hai.",
+    "urgency": "Monitor at home",
+    "urgency_desc": "Generally natural, but talk to a doctor if symptoms severely impact daily life.",
+    "lifestyle_tips": [
+      "Stay cool and layered",
+      "Regular weight-bearing exercise",
+      "Calcium and Vitamin D rich diet",
+      "Mindfulness or stress reduction"
+    ]
+  },
+  "uti": {
+    "name": "UTI / Vaginal Infections",
+    "symptoms": [
+      "burning during urination",
+      "unusual discharge",
+      "itching",
+      "frequent urge to urinate",
+      "pelvic pain"
+    ],
+    "explanation": "Yeh infections common hain aur usually treatable hain antibiotics ya antifungals se — early treatment complications avoid karta hai.",
+    "urgency": "See a doctor soon",
+    "urgency_desc": "See a doctor soon (within 1-2 days, especially if fever is present).",
+    "lifestyle_tips": [
+      "Drink plenty of water",
+      "Maintain hygiene",
+      "Avoid fragrant soaps"
+    ]
+  }
+}
